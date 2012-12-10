@@ -45,3 +45,14 @@ rm -f %{buildroot}%{_var}/www/drupal/modules/%{modname}/*.txt
 %files
 %{_var}/www/drupal/modules/%{modname}
 %doc CHANGELOG.txt README.txt
+
+
+%changelog
+* Sat May 12 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 7.x.2.1-2
++ Revision: 798385
+- fix description
+
+* Fri May 11 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 7.x.2.1-1
++ Revision: 798293
+- imported package drupal-wysiwyg
+
