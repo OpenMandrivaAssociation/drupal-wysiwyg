@@ -7,7 +7,7 @@
 Name:		drupal-%{modname}
 Summary:	Wysywig module for Drupal
 Version:	%{version}
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		Networking/WWW
 URL:		https://drupal.org/project/%{modname}
